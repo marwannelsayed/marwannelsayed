@@ -1,6 +1,4 @@
 ### Hi there 👋
-🔭 I’m currently working on a Mind GRAF project
-
 📫 How to reach me: marwanyehiaelsayed@gmail.com
 
 😄 Pronouns: he/him
