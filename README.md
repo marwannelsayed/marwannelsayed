@@ -3,7 +3,7 @@
 
 😄 Pronouns: he/him
 
-🧠 I’m passionate about learning Artificial Intelligence and Generative AI — exploring how these technologies can solve real-world problems and transform industries. Always curious, always learning.
+🧠 I’m passionate about learning Generative AI — exploring how these technologies can solve real-world problems and transform industries. Always curious, always learning.
 <!--
 **marwannelsayed/marwannelsayed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
